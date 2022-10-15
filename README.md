@@ -1,5 +1,3 @@
-# School-Tool-8-1-
-
-# What's new
+# School Tool 8-1 Edition
 ixed Version issues
 Added Gradient Background
