@@ -38,7 +38,7 @@ Version 1.3.0 had issues:
 - In index.html, School Tool info had incorrect flexbox settings that were fixed
 - Index.html had the latest features added in hero
 
-## Version 1.3.1 Issue patch
+## Version 1.3.1 [Quick fix] Issue patch
 Version 1.3.1 had minor issues
 
 ## Issues
