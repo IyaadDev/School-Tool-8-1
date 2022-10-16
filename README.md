@@ -1,7 +1,20 @@
 # School Tool 8-1 Edition
 School Tool is an innovative open-source project that allows students in classrooms to efficiently work.
 
-# Main Releases
+# Major Releases
+Major releases are numbers that have a 0.1 increase in difference or more
+
+## Version 2.0
+Version 2.0 is the modern version of School Tool. It contains 7 updates
+
+### About Version 
+We feel that it is time School Tool had been basically completely finished. Any bugs are to be reported in issues and they will be patched, but for now this will be the final release.
+
+### What's new
+- Updated Gradient
+
+## Version 1.3
+Version 1.3 has a variety of updates
 
 ### About Version
 V1.3 has 19 updates
