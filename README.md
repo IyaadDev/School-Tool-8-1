@@ -39,6 +39,17 @@ V1.3 has 19 updates
 # Minor Releases
 Minor releases are releases that are like [Main version].[Sub version].[Minor Version]
 
+## Version 2.0.1
+A quick improvement of user experience
+
+### Issues
+- GEMS Phoenix Classroom had an incorrect target
+- GitHub redirect had an incorrect target
+
+### What's fixed
+- GEMS Phoenix Classroom target set to blank on navbar across all pages
+- SCT GitHub redirect target set to blank on navbar across all pages
+
 ## Version 1.3.1 Patch
 Version 1.3.0 had issues:
 
