@@ -39,6 +39,15 @@ V1.3 has 19 updates
 # Minor Releases
 Minor releases are releases that are like [Main version].[Sub version].[Minor Version]
 
+## Version 2.0.2
+A quick improvement of the code
+
+### Issues
+- Messed up code
+
+### What's fixed
+- Formatted code
+
 ## Version 2.0.1
 A quick improvement of user experience
 
