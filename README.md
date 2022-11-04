@@ -22,6 +22,8 @@ Made with sincerity
  School Tool v2.1 is out!
  
  ### What's new?
+ - Blanked targets
+ - Fixed broken links in index.html
 
 ## Bug Reporting Protocol
 If you find/encounter a bug, please report it in the errors section so that we can fix it as soon as possible
