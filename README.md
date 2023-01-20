@@ -1,5 +1,5 @@
 # School Tool 8-1
-Made with sincerity
+Made for productivity, use it wisely
 
  ## How to use
  There are 2 methods of using School Tool, a local, offline file or the online version
