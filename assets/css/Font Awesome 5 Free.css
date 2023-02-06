@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'Font Awesome 5 Free';
+	src: url(../../assets/fonts/fa-regular-400.eot?h=ef26edbb0eadf846f81c7df1523b1951) format('embedded-opentype'),
+	url(../../assets/fonts/fa-regular-400.eot?h=ef26edbb0eadf846f81c7df1523b1951) format('embedded-opentype'),
+	url(../../assets/fonts/fa-regular-400.woff2?h=ef26edbb0eadf846f81c7df1523b1951) format('woff2'),
+	url(../../assets/fonts/fa-regular-400.woff?h=ef26edbb0eadf846f81c7df1523b1951) format('woff'),
+	url(../../assets/fonts/fa-regular-400.ttf?h=ef26edbb0eadf846f81c7df1523b1951) format('truetype'),
+	url(../../assets/fonts/fa-regular-400.svg?h=ef26edbb0eadf846f81c7df1523b1951) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Font Awesome 5 Free';
+	src: url(../../assets/fonts/fa-solid-900.eot?h=ef26edbb0eadf846f81c7df1523b1951) format('embedded-opentype'),
+	url(../../assets/fonts/fa-solid-900.eot?h=ef26edbb0eadf846f81c7df1523b1951) format('embedded-opentype'),
+	url(../../assets/fonts/fa-solid-900.woff2?h=ef26edbb0eadf846f81c7df1523b1951) format('woff2'),
+	url(../../assets/fonts/fa-solid-900.woff?h=ef26edbb0eadf846f81c7df1523b1951) format('woff'),
+	url(../../assets/fonts/fa-solid-900.ttf?h=ef26edbb0eadf846f81c7df1523b1951) format('truetype'),
+	url(../../assets/fonts/fa-solid-900.svg?h=ef26edbb0eadf846f81c7df1523b1951) format('svg');
+	font-weight: 900;
+	font-style: normal;
+	font-display: auto;
+}

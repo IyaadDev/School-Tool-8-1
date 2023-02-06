@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'FontAwesome';
+	src: url(../../assets/fonts/fontawesome-webfont.eot?h=4f6547cf25b0902515e5eb5dc8ff06d8&v=4.7.0) format('embedded-opentype'),
+	url(../../assets/fonts/fontawesome-webfont.eot?h=4f6547cf25b0902515e5eb5dc8ff06d8) format('embedded-opentype'),
+	url(../../assets/fonts/fontawesome-webfont.woff2?h=4f6547cf25b0902515e5eb5dc8ff06d8&v=4.7.0) format('woff2'),
+	url(../../assets/fonts/fontawesome-webfont.woff?h=4f6547cf25b0902515e5eb5dc8ff06d8&v=4.7.0) format('woff'),
+	url(../../assets/fonts/fontawesome-webfont.ttf?h=4f6547cf25b0902515e5eb5dc8ff06d8&v=4.7.0) format('truetype'),
+	url(../../assets/fonts/fontawesome-webfont.svg?h=4f6547cf25b0902515e5eb5dc8ff06d8&v=4.7.0) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
